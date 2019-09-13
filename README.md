@@ -1,4 +1,30 @@
-# Política de Privacidade
+# Privacy Policy - en
+SECTION 1 - WHAT DO WE DO WITH THIS INFORMATION? When you use our App, we collect the personal information you give us such as: phone number, tracking client code, as well as your geographical location.
+
+Since there is no reason and even need to collect other information about you.
+
+SECTION 2 - CONSENT How is the information collected and my consent collected?
+
+When you install our App we, through the phone settings page we collect information that you must enter in the app. These are the phone number, tracking client code, as well as their geographic location (collected at the time of using App features). After performing these actions we understand that you agree to the data collection to be used by in the App.
+
+If we ask for your personal information for a secondary reason, such as marketing, we will ask you directly for your consent, or provide you with the opportunity to say no.
+
+And if you want to withdraw your consent, how to proceed?
+
+If after you provide us with your data, you change your mind, you may withdraw your consent so that we may contact you for continuous data collection, use or disclosure of your information at any time by contacting us at jeovajire2003 @ gmail.com or sending us a mail to: Fabiano de Souza Pereira, city of Florianópolis.
+
+SECTION 3 - DISCLOSURE We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+
+SECTION 4 - THIRD PARTY SERVICES In general, third party suppliers we use will not collect, use and disclose your information.
+
+Links If there are any links now or in the future within our App and you click know that they may direct you outside our App. We are not responsible for the privacy practices of other websites and we encourage you to read their privacy statements.
+
+SECTION 5 - SECURITY To protect your personal information, we take reasonable precautions and follow industry best practices to make sure that it is not improperly lost, misused, accessed, disclosed, altered or destroyed.
+
+SECTION 6 - CHANGES TO THIS PRIVACY POLICY We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon posting to the site. If we make material changes to this policy, we will notify you here that they have been updated so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and / or disclose it.
+
+
+# Política de Privacidade - pt
 
 SEÇÃO 1 - O QUE FAREMOS COM ESTA INFORMAÇÃO?
 Quando você utiliza nosso App, coletamos as informações pessoais que você nos dá tais como: número do telefone, codigo do cliente de monitoramento, bem como sua localização geografica.
