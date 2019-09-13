@@ -5,7 +5,7 @@ Since there is no reason and even need to collect other information about you.
 
 SECTION 2 - CONSENT How is the information collected and my consent collected?
 
-When you install our App we, through the phone settings page we collect information that you must enter in the app. These are the phone number, tracking client code, as well as their geographic location (collected at the time of using App features). After performing these actions we understand that you agree to the data collection to be used by in the App.
+When you install our App we, through the phone settings page we collect information that you must enter in the app yourself. These are the phone number, tracking client code, as well as their geographic location (collected at the time of using App features). After performing these actions we understand that you agree to the data collection to be used by in the App.
 
 If we ask for your personal information for a secondary reason, such as marketing, we will ask you directly for your consent, or provide you with the opportunity to say no.
 
@@ -34,7 +34,7 @@ Sendo que não há motivo e mem mesmo a necessidade de serem coletados outras in
 SEÇÃO 2 - CONSENTIMENTO
 Como são coletadas as informações e o  meu consentimento?
 
-Quando você instala nosso App nós, através da pagina de configurações do telefone coletamos informações que você msmo deve digitar no aplicativo. Que são o número do telefone, codigo do cliente de monitoramento, bem como sua localização geografica(coletada no momento do uso dos recursos do App). Após a realização dessas ações entendemos que você está de acordo com a coleta de dados para serem utilizados pela no App.
+Quando você instala nosso App nós, através da pagina de configurações do telefone coletamos informações que você mesmo deve digitar no aplicativo. Que são o número do telefone, codigo do cliente de monitoramento, bem como sua localização geografica(coletada no momento do uso dos recursos do App). Após a realização dessas ações entendemos que você está de acordo com a coleta de dados para serem utilizados pela no App.
 
 Se pedimos por suas informações pessoais por uma razão secundária, como marketing, vamos lhe pedir diretamente por seu consentimento, ou lhe fornecer a oportunidade de dizer não.
 
